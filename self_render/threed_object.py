@@ -1,0 +1,8 @@
+
+
+class ThreeDObject(object):
+    pass
+
+
+
+
